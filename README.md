@@ -9,3 +9,5 @@ Todos se trabaja. en un Jupyter notebook para Python 3.
 Métodos: 
 
 (Se edita conforme se agreguen, bye 🧁 )
+
+https://medium.com/practical-coding/line-search-methods-in-optimization-dee49c1dec0c
